@@ -1,0 +1,26 @@
+---
+layout: page
+description: In class exercise sheet
+---
+
+<center><strong>PSYCH 1140 - Defining events exercise</strong><center>
+<center><strong>Tuesday, 25 January 2022</strong><center>
+
+Take 3 minutes to describe one event you have experienced. Do not think too much about this, just write down the first thing that pops into your mind when you hear the prompt “event”. In the three minutes, include as much detail as you can about the event. 
+ 
+  
+   
+
+
+In the next 2 minutes, highlight/ underline three words that you think are key to the event you described. These should be the words that you feel are essential to the event you described. 
+  
+
+
+
+
+What are the type of words (e.g. emotional, social context) that seem to be influential for how you define an event? 
+  
+
+  
+
+*Please upload the completed version of this exercise sheet on canvas.*
