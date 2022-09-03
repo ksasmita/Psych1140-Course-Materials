@@ -17,7 +17,7 @@ title: PSYCH1140
 tagline: Event Cognition - How the mind process and remember experience.
 description: Course syllabus and materials for PSYCH1140, as part of the first year writing seminal series | Cornell Psychology
 author: Karen Sasmita
-baseurl: '/PSYCH1140'  # the subpath of your site, e.g. /blog
+baseurl: '/PSYCH1140-Course-Materials'  # the subpath of your site, e.g. /blog
 url: 'ksasmita.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
